@@ -185,7 +185,7 @@ public class ElevensBoard {
 	 *         false otherwise.
 	 */
 	public boolean isLegal(List<Integer> selectedCards) {
-		/* *** TO BE IMPLEMENTED IN ACTIVITY 9 *** */
+		/* *** TO BE IMPLEMENTED IN Activity 8 *** */
 	}
 
 	/**
@@ -197,7 +197,7 @@ public class ElevensBoard {
 	 *         false otherwise.
 	 */
 	public boolean anotherPlayIsPossible() {
-		/* *** TO BE IMPLEMENTED IN ACTIVITY 9 *** */
+		/* *** TO BE IMPLEMENTED IN ACTIVITY 8 *** */
 	}
 
 
@@ -219,7 +219,7 @@ public class ElevensBoard {
 	 *              contain an 11-pair; false otherwise.
 	 */
 	private boolean containsPairSum11(List<Integer> selectedCards) {
-		/* *** TO BE IMPLEMENTED IN ACTIVITY 9 *** */
+		/* *** TO BE IMPLEMENTED IN ACTIVITY 8 *** */
 	}
 
 	/**
