@@ -51,7 +51,7 @@ public class Shuffler {
 	 * @param values is an array of integers simulating cards to be shuffled.
 	 */
 	public static void perfectShuffle(int[] values) {
-		/* *** TO BE IMPLEMENTED IN ACTIVITY 3 *** */
+		/* *** TO BE IMPLEMENTED IN Activity 4 *** */
 	}
 
 	/**
@@ -66,6 +66,6 @@ public class Shuffler {
 	 * @param values is an array of integers simulating cards to be shuffled.
 	 */
 	public static void selectionShuffle(int[] values) {
-		/* *** TO BE IMPLEMENTED IN ACTIVITY 3 *** */
+		/* *** TO BE IMPLEMENTED IN Activity 4 *** */
 	}
 }
